@@ -1,0 +1,4 @@
+@tailwindcss;
+.card{
+    @apply bg-white mt-8 w-80 rounded-lg shadow-2xl overflow-hidden relative;
+}
